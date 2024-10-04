@@ -1,10 +1,6 @@
 # FreeCodeCamp - Data Analysis with Python :snake:
 My Solutions to the course offered in [FreeCodeCamp](https://www.freecodecamp.org/) for Data Analysis with Python.
 
-```
-Any modifications or suggestions for the solutions are appreciated.
-```
-
 | Project | Solution Link :link:|
 | --- | --- |
 | Mean Variance and Standard Deviation | [Solution](https://github.com/mpalov/Data-Analysis-with-Python/blob/main/mean_var_std/mean_var_std.py) |
